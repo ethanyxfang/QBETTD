@@ -155,8 +155,18 @@ When constructing the dataset, we hired crowd-source workers from platforms to d
 Due to company policy restrictions, we will not provide dataset directly online. Please contact us if needed. We are happy to get in touch with you and provide the necessary support.
 
 While reporting results using the QBETTD, please cite the following article:
-[BibTex to be added]
+
+@inproceedings{ma2023topic,
+  title={Topic Tracking from Classification Perspective: New Chinese Dataset and Novel Temporal Correlation Enhanced Model},
+  author={Ma, Jin and Zhang, Xinming and Fang, Yuxun and Zuo, Xinyu and Liang, Haijin},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={85--97},
+  year={2023},
+  organization={Springer}
+}
 
 Ethanfang 
+
 Tencent
+
 ethanfang@tencent.com
