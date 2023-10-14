@@ -156,6 +156,7 @@ Due to company policy restrictions, we will not provide dataset directly online.
 
 While reporting results using the QBETTD, please cite the following article:
 
+```
 @inproceedings{ma2023topic,
   title={Topic Tracking from Classification Perspective: New Chinese Dataset and Novel Temporal Correlation Enhanced Model},
   author={Ma, Jin and Zhang, Xinming and Fang, Yuxun and Zuo, Xinyu and Liang, Haijin},
@@ -164,6 +165,7 @@ While reporting results using the QBETTD, please cite the following article:
   year={2023},
   organization={Springer}
 }
+```
 
 Ethanfang 
 
